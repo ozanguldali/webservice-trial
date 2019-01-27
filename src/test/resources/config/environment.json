@@ -1,0 +1,17 @@
+{
+  "sshUser": "",
+  "sshHost": "",
+  "sshPort": "",
+  "keyFile": "",
+
+  "dbUsername": "",
+  "dbPassword": "",
+  "dbHost": "",
+  "dbDriverClass": "oracle.jdbc.driver.OracleDriver",
+
+  "restHost_env": "local",
+
+  "restHost_local": "http://127.0.0.1:8087",
+
+  "Cache-Control": "no-cache"
+}

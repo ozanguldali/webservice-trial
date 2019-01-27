@@ -1,0 +1,11 @@
+{
+  "path": "/login",
+  "method": "post",
+  "headers":{
+    "Content-Type": "application/json"
+  },
+  "jsonBody": {
+    "username":"ozan",
+    "password":"123456"
+  }
+}
